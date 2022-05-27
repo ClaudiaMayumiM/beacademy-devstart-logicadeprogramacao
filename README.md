@@ -70,6 +70,33 @@
 
 - [Acesse aqui](https://github.com/ClaudiaMayumiM/beacademy-devstart-logicadeprogramacao/blob/main/exercicio17.js)
 
+#### Exercício 18
+
+- [Acesse aqui] (https://github.com/ClaudiaMayumiM/beacademy-devstart-logicadeprogramacao/blob/main/exercicio18.js)
+
+#### Exercício 19
+
+- [Acesse aqui] (https://github.com/ClaudiaMayumiM/beacademy-devstart-logicadeprogramacao/blob/main/exercicio19.js)
+
+#### Exercício 20
+
+- [Acesse aqui] (https://github.com/ClaudiaMayumiM/beacademy-devstart-logicadeprogramacao/blob/main/exercicio20.js)
+
+#### Exercício 21
+
+- [Acesse aqui] (https://github.com/ClaudiaMayumiM/beacademy-devstart-logicadeprogramacao/blob/main/exercicio21.js)
+
+#### Exercício 22
+
+- [Acesse aqui] (https://github.com/ClaudiaMayumiM/beacademy-devstart-logicadeprogramacao/blob/main/exercicio22.js)
+
+#### Exercício 23
+
+- [Acesse aqui] (https://github.com/ClaudiaMayumiM/beacademy-devstart-logicadeprogramacao/blob/main/exercicio23.js)
+
+#### Exercício 24
+
+- [Acesse aqui] (https://github.com/ClaudiaMayumiM/beacademy-devstart-logicadeprogramacao/blob/main/exercicio24.js)
 
 
 ## Autor
