@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora</title>
+</head>
+
+<body>
+
+  <h1>Calculadora</h1>
+  <hr>
+
+  <label for="">Digite o primeiro número:</label>
+  <input type="number" placeholder="0" id="n1">
+
+  <br>
+  <br>
+
+  <label for="">Digite o segundo número:</label>
+  <input type="number" placeholder="0" id="n2" value="">
+
+  <br><br>
+
+  <label for="">Digite a operação desejada:
+    <br>
+    (+ para somar || - para subtrair || * para multiplicar || / para dividir)
+  </label>
+  <br>
+  <input type="text" id="simbol" value="">
+
+  <br><br>
+
+  <button onclick="calcular()">Calcular</button>
+
+  <hr>
+
+  <label for="">Resultado:</label>
+  <input type="number" disabled id="resultado">
+
+  <script src="exercicio7.js"></script>
+
+</body>
+
+</html>
