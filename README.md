@@ -1,4 +1,4 @@
-# beacademy-devstart-logicadeprogramacao
+## Repositório criado para armazenar os exercícios do módulo de lógica de programação do programa DevStart oferecido pela edtech BeAcademy em parceria com a empresa Paylivre
 
 ### Um pequeno índice para facilitar a navegação entre os exercícios:
 
